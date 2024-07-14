@@ -22,7 +22,7 @@
         },
         {
             "label": "Certificates",
-            "altText": "Blog",
+            "altText": "",
             "url": "/Certificates",
             "icon": "arrowRight",
             "iconPosition": "right",
