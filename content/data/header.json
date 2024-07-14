@@ -37,25 +37,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "type": "SubNav",
-            "label": "About",
-            "altText": "",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "About",
-                    "altText": "",
-                    "url": "/About",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary"
         }
     ],
     "secondaryLinks": [
