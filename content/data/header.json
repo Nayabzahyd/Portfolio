@@ -22,7 +22,7 @@
         },
         {
             "type": "Link",
-            "label": "About",
+            "label": "LinkedIn",
             "altText": "",
             "url": "About",
             "showIcon": true,
