@@ -42,7 +42,7 @@
             "type": "Link",
             "label": "About",
             "altText": "",
-            "url": "",
+            "url": "About",
             "showIcon": true,
             "icon": "linkedin",
             "iconPosition": "left",
