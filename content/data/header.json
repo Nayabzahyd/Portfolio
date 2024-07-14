@@ -45,17 +45,6 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
                     "label": "About",
                     "altText": "",
                     "url": "/About",
