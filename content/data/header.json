@@ -43,7 +43,7 @@
         {
             "label": "About",
             "altText": "",
-            "url": "/https://www.linkedin.com/in/nayab-zahid/",
+            "url": "About",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
