@@ -40,7 +40,7 @@
         },
         {
             "type": "Link",
-            "label": "LinkedIn",
+            "label": "About",
             "altText": "LinkedIn",
             "url": "/https://www.linkedin.com/in/nayab-zahid/",
             "showIcon": true,
